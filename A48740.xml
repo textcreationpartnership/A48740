@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The descent upon France considered, in a letter to a member of Parliament</title>
+            <author>Littleton, Edward, b. 1626.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48740</idno>
+            <idno type="STC">Wing L2576A</idno>
+            <idno type="STC">Wing L12_CANCELLED</idno>
+            <idno type="STC">ESTC R9804</idno>
+            <idno type="EEBO-CITATION">13545582</idno>
+            <idno type="OCLC">ocm 13545582</idno>
+            <idno type="VID">100121</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48740)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100121)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 461:4 or 1705:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The descent upon France considered, in a letter to a member of Parliament</title>
+                  <author>Littleton, Edward, b. 1626.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rich. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signed: E. L; attributed by Wing to Edward Littleton.</note>
+                  <note>This work appears at reel 461:4 as Wing L12 (number cancelled in Wing 2nd ed.), and at reel 1705:7 as Wing L2576A.</note>
+                  <note>Reproduction of originals in Bodleian Library and Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Foreign relations --  France.</term>
+               <term>France --  Foreign relations --  Great Britain.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:100121:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 60 -->
+            <head>THE DESCENT UPON FRANCE CONSIDERED; In a LETTER to a Member of <hi>PARLIAMENT.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have read and conſidered the Project of a Deſcent upon <hi>France:</hi> and have likewiſe conſidered the Deſcents, that have been ſince deſigned. But, in my apprehenſion, the Deſcents late<g ref="char:EOLhyphen"/>ly Deſigned, are very different from that which was Projected.</p>
+            <p>The Buſineſs of the Deſcent Projected is, to have a good Body of Foot, (which ſhould be about twenty thouſand), to be put on Board, and to carry on a Deſultory Sea-War. Or in other words, to have a Naval Army for the infeſting of the <hi>French</hi> Coaſts. Theſe may Land, as they ſee Occaſion, upon any part of <hi>France</hi> that lies towards our Seas. Not to burn and ravage, (for That will ſignifie little), but to ſeize ſome weak Port or Creek, or any commodious Place they can take by Storm; and to fortifie it with a large and ſtrong Intrenchment. which may contain the whole twenty thou<g ref="char:EOLhyphen"/>ſand and more, but will be full mann'd with ten thouſand.</p>
+            <pb n="2" facs="tcp:100121:2"/>
+            <!-- PDF PAGE 61 -->
+            <p>The Project ſuppoſes, that we ſhall certainly be able to force our Landing in ſome Place or other. It ſuppoſes alſo, that ſuch a Body of Men, having the Sea and a Fleet behind them, may ſo intrench themſelves, as to defie any Force that can be brought againſt them. A ſmall Force cannot look upon them: and a great Force will be ſo long drawing together, that our Men will have the more time to fortifie. Alſo the Project ſuppoſes, that ſuch a Place, having in it a Garriſon of ten thouſand Men (whereof 1000, or 1500, to be Horſe and Dragoons) will maintain it ſelf by the Contribution it Commands: ſo that it will be no Charge to <hi>England.</hi> And the Men for this Garriſon may be had at very ſhort warning: a Footing in <hi>France</hi> being a moſt powerful Invitation. Which Garriſon when it is compleat, Our whole Naval Army may ſet fail, to ſeize and fortifie ſome other Place. And ſo on to another and another.</p>
+            <p>The Author of the Project doth not think it neceſſary (tho it is confeſs'd it would be highly convenient) that theſe Places ſhould have good Ports. Judging it ſufficient, if they can receive and ſecure ſmall Veſſels; being relievable by Sea, and not commanded by Land. Such a Place being very well fortified, he ſays would be as good as <hi>Calice:</hi> which we know is greatly conſiderable, tho it have a very mean Harbour. And I add, that any Footing in <hi>France</hi> would be worth a Million. Alſo I add further, That if no Port of any kind be to be had, we may fortifie upon a Bay<g ref="char:punc">▪</g> and it is well known to Seamen, which are the moſt commodious Bays of <hi>France</hi> upon theſe Seas.</p>
+            <p>I have given you this ſhort account of the <hi>Projected Deſcent.</hi> He that would have it at large, with the Reaſons for it, and the Advan<g ref="char:EOLhyphen"/>tages propoſed by it, may (if he pleaſe) have recourſe to the Book it ſelf: which was Printed in the beginning of Ninety one, and is ſince Reprinted.</p>
+            <p>BUT THE DESCENTS that have been deſigned theſe two laſt Years, ſeem to be of another Nature. For in all Appearance, they were not for the Making, but the Taking of ſtrong Places. And accordingly they had compleat Trains of Braſs Artillery: with all other things fit for Sieges. Whereas to the Fortifying Project, there is only required good ſtore of Iron Guns: which upon Ram<g ref="char:EOLhyphen"/>parts are as good or better than thoſe of Braſs. According to the Informations we had, the firſt of theſe Deſcents was to be carried on by about twelve thouſand Foot, and one thouſand Horſe and
+<pb n="3" facs="tcp:100121:2"/>
+               <!-- PDF PAGE 61 -->Dragoons. But a much greater Force was intended for the ſecond; that is, thirty thouſand Foot, and of Horſe and Dragoons ſeveral thouſands: being near forty thouſand in all.</p>
+            <p>I ſhall not preſume to determine, which of theſe two ways is beſt: whether the Attacquing ſtrong Places, or the making weak Places ſtrong. For tho I can comprehend the Fortifying Project, it being eaſie and obvious; yet the Deſign of Attacquing is beyond my Reach: and may have much better Reaſons for it, than I underſtand or can imagine. However this ſeems clear; that in the Attacquing Deſign there is Difficulty and Danger, but in Fortifying there is on<g ref="char:EOLhyphen"/>ly Labour. Of which we muſt not be ſparing, if we mean to pull down this <hi>French King.</hi>
+            </p>
+            <p>If therefore there muſt any thing of this kind be done next Year, (and ſomething of this kind muſt be done, or we are ruin'd); I ſhould humbly adviſe the way of Seizing and Fortifying, as the ſafe and ſure Way. And tho it be long, tho it be laborious, tho it may ſeem ignoble; yet we may take it with all its Faults, if it will ſufficiently ruine the <hi>French King.</hi> Which it cannot fail to do, if it be well followed.</p>
+            <p>When I admit this way to be long, it is with reſpect to the ulti<g ref="char:EOLhyphen"/>mate End it propoſes: which is, The getting a Range of Garriſons upon the <hi>French</hi> Coaſt, the whole length of the Channel. And this is a Work of ſome time. But we ſhall ſoon find a good Effect of this Enterprize. For a few ſuch Garriſons, (as many as may be had in one Summer), muſt exceedingly diſtract and confound the <hi>French;</hi> and make them draw much of their Force from <hi>Flanders</hi> and <hi>Germany,</hi> theſe Garriſons being back'd by our Naval Army, and by all the Forces we have in <hi>England.</hi> Alſo this way is long, in compariſon of a Voyage Royal: which I confeſs would make quicker Work. But ſuch a Voyage ſeems not convenient at this time.</p>
+            <p>I know a Voyage Royal hath been recommended, as the beſt Way of all other. But it was at a time, when the Confederates were ſuperiour in Strength. Alſo it was upon a ſuppoſition that the War of <hi>Ireland</hi> were over. But this War hath not been ended ſo ſoon as it might have been: (for which, and conſequently for all our Diſtreſſes, we may thank the <hi>Iriſh Proteſtants;</hi> who being governed by their Revenge and other Paſſions, would not endure that any tolerable Conditions ſhould be given to their Enemies): by which means the <hi>French</hi> have gotten ſuch Advantages, that they
+<pb n="4" facs="tcp:100121:3"/>
+               <!-- PDF PAGE 62 -->are now too ſtrong for us. So that the ſtate of Affairs being ſo much alter'd, we muſt likewiſe alter our Meaſures.</p>
+            <p>There is this difference between a Voyage Royal, and the De<g ref="char:EOLhyphen"/>ſcent Projected. By a Voyage Royal, or a main Invaſion, we might more readily ſubdue the <hi>French,</hi> in caſe We with our Confederates were the ſtronger. But by the Deſcent Projected, or a deſultory Sea War, (or a Coaſt War, as it hath been called in ſome Debates of Parliament); They that are Maſters at Sea (as we muſt be, or I have ſaid nothing all this while); may worſt an Enemy much ſtron<g ref="char:EOLhyphen"/>ger at Land than themſelves, and may grow upon him; no Force or Conduct being able to withſtand it.</p>
+            <p>THE DESCENT intended this laſt Summer, was not in truth a Deſcent, as we commonly underſtand the Word, but a main Invaſion; and would have wanted nothing but the King's Preſence, to make it a Voyage Royal. We muſt preſume that it was well deſign'd, tho it ſuffered a diſappointment: nor am I min<g ref="char:EOLhyphen"/>ded to look back. Rather, if you pleaſe, let us weigh and conſider what is beſt for the future. That is, ſince a Deſcent muſt be (there being no other way to preſerve us); whether we ſhould make this Deſcent with a compleat Army of forty thouſand Combatants Horſe, Foot and Dragoons; or with a good Body of 20000. Foot.</p>
+            <p>And in the firſt place it is confeſs'd, that if this compleat Army could be had with a Wiſh, we might probably Wiſh for the com<g ref="char:EOLhyphen"/>pleat Army. But when we conſider what the Charge of it will be, and how hardly this Force can be ſpared from other Places, we may be of another Mind. So that the other Way ſeems more inviting, in regard it may be compaſſed much eaſier, and will coſt much leſs.</p>
+            <p>In the ſecond place, when this compleat Army is once landed, they muſt there abide and take their Fortune: there is then no fear of them any where elſe. Such Numbers, with their great Equi<g ref="char:EOLhyphen"/>page, and ſo many thouſand Horſes, are too unwieldy to be car<g ref="char:EOLhyphen"/>ried to and fro by Sea, upon every Occaſion: and a monſtrous Fleet muſt attend them for that purpoſe. But a Body of Foot is a thing portable: and can readily Land, and upon Occaſion as rea<g ref="char:EOLhyphen"/>dily Reimbark and ſeek new Adventures. So that being always Moving, or in a readineſs to Move; they will keep the whole Coaſt in a high and continual Alarm.</p>
+            <p>In the third place, Since our Compleat Army muſt take their For<g ref="char:EOLhyphen"/>tune in the place where they firſt Land; let us ſee what their For<g ref="char:EOLhyphen"/>tune
+<pb n="5" facs="tcp:100121:3"/>
+               <!-- PDF PAGE 62 -->is like to be. 'Tis probable that for a while they will be Maſters of the Field: and conſequently they may Attacque ſome ſtrong Place. But there is great reaſon to fear, that before they have taken it the <hi>French</hi> will be upon them. And if they over-pow<g ref="char:EOLhyphen"/>er us, all our Labour is loſt; beſide the danger of being routed and deſtroyed. But a Body of Foot that only minds Fortifying, runs no ſuch Hazards. For there is no likelihood, (if they work with Diligence, and get Guns <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>now mounted) that the Enemy ſhould be able to force their Intrenchments.</p>
+            <p>In the fourth place I affirm, that a compleat Army of forty thou<g ref="char:EOLhyphen"/>ſand Men, being landed in <hi>Normandy</hi> or <hi>Bretagne;</hi> can do no more Hurt to the <hi>French</hi> King, nor to the Confederates more Good, than the like Army ſent to <hi>Flanders.</hi> Suppoſe he deſigns to invade <hi>Flanders</hi> with a hundred and twenty thouſand Men: and ſuppoſe the Confederates deſign a hundred thouſand to defend it, whereof Our <hi>Quota</hi> is to be forty thouſand. But we chuſe rather to fall into <hi>Bretagne</hi> with our whole <hi>Quota:</hi> thereby to oblige the <hi>French</hi> to draw off the like Number to oppoſe our Invaſion. And then the <hi>French</hi> will have fourſcore thouſand in <hi>Flanders;</hi> and the Con<g ref="char:EOLhyphen"/>federates, threeſcore. So that all our Cunning will come to this; that We ſhall divide Our Enemies Forces, by dividing our own. But the <hi>French</hi> will ſtill be ſuperiour in <hi>Flanders</hi> by twenty thouſand Men; and our Invaſion in <hi>Britain,</hi> being oppoſed by equal Force, can come to nothing.</p>
+            <p>But in the fifth place it will not hold, That our invading <hi>Britain</hi> with forty thouſand Men, muſt cauſe the <hi>French</hi> to draw or keep back as great a Force from <hi>Flanders.</hi> For twenty thouſand of their regular Troops, aſſiſted by the <hi>Militia's</hi> of <hi>Britain</hi> and the neigh<g ref="char:EOLhyphen"/>bouring Provinces, will I doubt be found ſufficient to oppoſe our Invaſion. So that this Invaſion, inſtead of weakning the <hi>French,</hi> will give them a further Advantage. For now (according to the Suppoſitions before made) they will have a hundred thouſand Men in <hi>Flanders,</hi> againſt threeſcore thouſand of the Confederates. Alſo by this means they will exert more of their Force againſt us: their <hi>Militia</hi> Troops being now employed, which would otherwiſe ly idle. 'Tis true, this will be a great Burden to their People; but their People muſt and will bear it.</p>
+            <p>Let us now ſee, whether the Fortifying Project be ſubject to theſe Evils. And any one that will conſider, may ſee plainly it is not. It takes up but twenty thouſand Foot: the reſt of our Foot,
+<pb n="6" facs="tcp:100121:4"/>
+               <!-- PDF PAGE 63 -->and all our Horſe and Dragoons, being to be employed elſewhere. Twenty thouſand on Shipboard will do more Service, both to our ſelves and to the Common Cauſe, then a far greater Number in <hi>Flanders.</hi> For a far greater Force muſt be brought to oppoſe them: tho all will be too little, to oppoſe a Deſcent of this Nature. It is a <hi>Flaile,</hi> againſt which there is no <hi>Fence.</hi>
+            </p>
+            <p>AND NOW, <hi>Sir,</hi> my requeſt to you is, That you will do your beſt Endeavour in your Station, that this Deſign be effectu<g ref="char:EOLhyphen"/>ally proſecuted. For the Good of <hi>England,</hi> and of <hi>Europe;</hi> both which are now upon the Brink of Deſtruction. 'Tis this that muſt put a Hook, in the <hi>French</hi> King's Noſe. We muſt therefore carry on this Deſcent in the firſt place: ſparing to our Allies all the fur<g ref="char:EOLhyphen"/>ther Force we can raiſe. And the Men that are for this Service, muſt not be expected from far Countries, but ſhould ly Quartered near the Sea Shore, ready to imbark upon the firſt Orders; the Ships that muſt Tranſport them being alſo ready.</p>
+            <p>I ſhall offer one thing more, which is; That beſide our Naval Army, there be a Reſerve of ten thouſand kept aſhor in <hi>England,</hi> (whereof at leaſt one thouſand ſhould be Horſe), to Mann the firſt Garriſon we ſhall make. With a Fund to raiſe more, when there ſhall be like further Occaſions. You may rely upon it, that if we have but Money, we ſhall never want Men, to make good our Footing in <hi>France.</hi> And I muſt ſay once more; <hi>Any Footing in</hi> France <hi>would be worth a Million.</hi>
+            </p>
+            <closer>
+               <signed>Your moſt humble Servant <hi>E. L.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="7" facs="tcp:100121:4"/>
+            <!-- PDF PAGE 63 -->
+            <head>POST-SCRIPT.</head>
+            <p>THere have been mentioned two ſorts of Deſcents; the one for Taking, the other for Making ſtrong Places. But beſide theſe there is a third Sort: which is for deſtroying the open Country. And this is the thing, which ſome underſtand by a Coaſt War Where<g ref="char:EOLhyphen"/>in their meaning is, that our Fleet (without the help of Land-For<g ref="char:EOLhyphen"/>ces on board) ſhould be moving on the <hi>French</hi> Coaſt, and putting Men aſhore as there is occaſion: who muſt make all the havock they can, by Spoiling and Burning.</p>
+            <p>But this is ignoble with a witneſs: and little better than barbarous. And I would not have us the Beginners of foul War: nor to fall a deſtroying without provocation. But to ſettle ſtrong Garriſons, and command Contributions, (which the Fortifying Project will do), with Military Execution for non-payment; theſe are things uſual, and will not be accounted <hi>foul.</hi>
+            </p>
+            <p>Beſide we muſt conſider, that the Sea Coaſt of <hi>France</hi> is for the moſt part barren and miſerably poor; and our Deſtroyers, being all of them Foot, will be able to reach nothing but the meer Sea Coaſt: ſo that they cannot get much Good, nor do much Harm. And moreover, a few Troops of Horſe will chaſe them and cut them off.</p>
+            <p>We muſt conſider further, That if we make foul Work, the E<g ref="char:EOLhyphen"/>nemy may find times to retaliate, and to meaſure back to <hi>England</hi> the ſame Severities. Our Coaſt is bolder, and leſs fortified, and richer. Wherefore upon the whole matter we may conclude, That ſuch a Deſcent as this, will be of no avail to us.</p>
+            <p>MANY there are that would have no Deſcent at all: nor any Land Forces, beſide thoſe that muſt Guard <hi>England.</hi> Thinking that We, being an Iſland, ſhould mind nothing but our Fleet. Here I muſt confeſs, that our Fleet ought to be our principal Care. But if the while we neglect our Confederates, and ſuffer them to be ru<g ref="char:EOLhyphen"/>ined; we muſt be ruined our ſelves. If the <hi>French</hi> get <hi>Flanders, Holland</hi> muſt ſoon follow: with all the <hi>German</hi> Countrie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon the <hi>Rhine.</hi> And then, whoever is King of <hi>England,</hi> we ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all be in the <hi>French</hi> King's Power. Nay tho we were under that Form of Govern<g ref="char:EOLhyphen"/>ment which <hi>Mazarine</hi> moſt dreaded, and tho the whole Nation
+<pb n="8" facs="tcp:100121:5"/>
+               <!-- PDF PAGE 64 -->ſhould be united as one Man; yet the <hi>French,</hi> in theſe their high Circumſtances, would be too hard for us.</p>
+            <p>[Here by the way, I think the Cardinal, (whoſe Letters are made Engliſh and here Printed), is a little extravagant. For he ſays that <hi>England</hi> would be at leaſt ten times ſtronger in a Republique, than under a King. If he had ſaid, we ſhould be twice or thrice as ſtrong, it had been ſomething like.]</p>
+            <p>I know there are ſome that deſpiſe this danger from the <hi>French:</hi> and will maintain; that tho they ſhould be grown never ſo great, yet in a War at Sea we ſhould be able to Cope with them. Which is a dangerous Miſtake. Perhaps we may advance two or three Millions yearly towards this Sea War. But if the <hi>French</hi> can advance thrice as much, we are ſure to be beaten. there being nothing more certain, than that in a War at Sea, ſeven or eight Millions will beat two or three Millions. And we muſt not think, that when we are Attacqued by a treble Force, the Odds or Hazard is but three to one againſt us. For where things are carried by Strength, three to one in the <hi>Match,</hi> is a thouſand to one in the <hi>Bett.</hi>
+            </p>
+            <p>We muſt therefore do our utmoſt for the defence of <hi>Flanders:</hi> aſ<g ref="char:EOLhyphen"/>ſiſting it with all the Force we can make, after our own neceſſary occaſions are provided for. And I think the Deſcent here recom<g ref="char:EOLhyphen"/>mended will give them more effectual Aſſiſtance, than any thing elſe we can do.</p>
+            <p>Such another Campagne as this laſt, (and in the ordinary way we can hardly hope for better), will make our Condition ruinous. We ſhall then have a dreadful Proſpect, of Univerſal Monarchy and Univerſal Slavery. Nothing in probability can preſerve us, (as you have been told formerly), but ſuch a Deſcent as is propoſed: and ſuch a Deſcent will probably preſerve us. This Deſcent, 'tis con<g ref="char:EOLhyphen"/>feſs'd, will coſt ſome Money; but it will carry no Money out of the Kingdom.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Rich. Baldwin,</hi> near the <hi>Oxford-Arms</hi> Inn, in <hi>Warwick-lane,</hi> 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
